@@ -14,4 +14,4 @@ Inspired by Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.c
 You can also view this list [on the web](http://jessica-eldredge.com/100-days-of-javascript/).
 
 1. **Random Quotes**
-  - [website](http://karolinelemos.com/random-quote) | [Github](https://github.com/karolinelemos/random-quote)
+  - [Website](http://karolinelemos.com/random-quote) | [Github](https://github.com/karolinelemos/random-quote)
